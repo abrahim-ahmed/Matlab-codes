@@ -1,4 +1,3 @@
-%by ENG.Ibrahim ahmed
 clear all; close all; clc;
 
 '----- state-space representation by finding the matrces A,B,C,D -----'
