@@ -8,5 +8,5 @@ I learned in matlab-coding for two years.
 
 Is not the best language I prefrred python language.
 
-I wishe thet my codes will help you Understand and benefit from it. 
+I wish thet my codes will help you Understand and benefit from it. 
 
